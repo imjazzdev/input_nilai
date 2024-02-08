@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779897660982",
+    "project_id": "input-nilai-292f0",
+    "storage_bucket": "input-nilai-292f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779897660982:android:182039c96a4c4119d7da97",
+        "android_client_info": {
+          "package_name": "com.example.input_nilai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9q4VEAMCh6kLkMp1YESXSxIXUs1WQMK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
